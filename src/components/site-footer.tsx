@@ -21,7 +21,7 @@ export default function SiteFooter() {
 
                     <p className="text-balance text-center text-sm leading-loose text-muted-foreground md:text-left">
                         ©️ 2024 Omniverse Labs, All rights reserved. Built by <a
-                        href={"https://github.com/MrInspection"}
+                        href={"https://github.com/eugene254-ship-it"}
                         target="_blank"
                         rel="noreferrer"
                         className="font-medium underline underline-offset-4"
