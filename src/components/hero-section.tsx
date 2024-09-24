@@ -51,7 +51,7 @@ export function HeroSection() {
                 </motion.div>
                 {/* Hero Section Content Logic */}
                 <div className={"container relative mt-16"}>
-                    <h1 className={"text-8xl md:text-[168px] md:leading-none font-semibold bg-white tracking-tighter bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,0.5))] bg-clip-text text-transparent text-center"}>AI SEO</h1>
+                    <h1 className={"text-8xl md:text-[168px] md:leading-none font-semibold bg-white tracking-tighter bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,0.5))] bg-clip-text text-transparent text-center"}>Guardian <IO></IO></h1>
                     <p className={"text-lg md:text-xl max-w-xl mx-auto text-white/70 mt-5 text-center"}>Elevate your site&apos;s visibility effortlessly with AI, where smart technology meets user-friendly SEO tools.</p>
                     <div className={"flex justify-center mt-5"}>
                         <ActionButton label={"Join Waitlist"} />
