@@ -20,13 +20,13 @@ export default function SiteFooter() {
 
 
                     <p className="text-balance text-center text-sm leading-loose text-muted-foreground md:text-left">
-                        ©️ 2024 Spectron Labs, All rights reserved. Built by <a
+                        ©️ 2024 Omniverse Labs, All rights reserved. Built by <a
                         href={"https://github.com/MrInspection"}
                         target="_blank"
                         rel="noreferrer"
                         className="font-medium underline underline-offset-4"
                     >
-                        Moussa
+                        Gene
                     </a>
                         .
                     </p>
